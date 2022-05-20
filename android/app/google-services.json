@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "892225967425",
+    "project_id": "mytodolist-42005",
+    "storage_bucket": "mytodolist-42005.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892225967425:android:eb7b9fdcf4902ee4883dc0",
+        "android_client_info": {
+          "package_name": "com.example.task_scheduler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892225967425-t07f73pgn2lkhevhf81at7e5rqoh36t3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0sXAqhKjY3tJ1EzAqqBOFq7nYBnLCuic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892225967425-t07f73pgn2lkhevhf81at7e5rqoh36t3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
